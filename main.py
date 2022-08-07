@@ -4,8 +4,8 @@ import random
 
 # ------------------------Constants---------------------------------------------------#
 
-MY_EMAIL = "sidestewbrew@gmail.com"
-PASSWORD = "ofxlfpugcpuicedu"
+MY_EMAIL = "" #  Your Email
+PASSWORD = "" #  Your Password
 DATE = dt.datetime.now()
 DAY = DATE.day
 RANDOM_NUM = random.randint(1, 102)
